@@ -30,3 +30,9 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+.reserve {
+    background-color: rgb(207, 179, 20);
+    color: aliceblue;
+}
+
